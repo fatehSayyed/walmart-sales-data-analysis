@@ -1,2 +1,11 @@
-# walmart-sales-data-analysis
-SQL-based exploratory data analysis of Walmart sales data to uncover customer behavior, sales trends, and product performance.
+ Objectives
+
+Analyze overall sales performance.
+
+Identify top-performing product categories.
+
+Understand customer purchasing behavior.
+
+Examine sales trends by time of day (Morning, Afternoon, Evening).
+
+Discover factors affecting sales such as city, branch, and payment method.
